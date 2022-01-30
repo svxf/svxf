@@ -11,7 +11,6 @@ Right now I'm slack off. I didn't do anything,So there's nothing here.
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡C#
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Json
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Lua
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡HTML5 / CSS3 / Vue.js
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svxf&layout=compact" />
 
