@@ -1,6 +1,6 @@
 # Hey! Welcome to my `GitHub` 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=svxf" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=svxf&theme=tokyonight" />
 
 ## 💬 The language I use 
 
@@ -10,7 +10,7 @@
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Json
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Lua
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svxf&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=svxf&show_icons=true&theme=tokyonight&layout=compact" />
 
 ## 📮 Contact me
 
