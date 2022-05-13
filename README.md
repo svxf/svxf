@@ -1,7 +1,5 @@
 # Hey! Welcome to my `GitHub` 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=svxf&theme=tokyonight" />
-
 ## 💬 The language I use 
 
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡HTML / CSS / JavaScript
