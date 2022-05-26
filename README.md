@@ -1,4 +1,9 @@
 # Hey! Welcome to my `GitHub` 👋
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=svxf&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,java,python,html,css,c,cpp,csharp,json,lua)](https://github.com/Jurredr/github-widgetbox)
+
+<!-- 
+# Hey! Welcome to my `GitHub` 👋
 
 ## 💬 The language I use 
 
@@ -19,3 +24,4 @@
 ## Magic Number 
 
 ![Visited By](https://count.getloli.com/get/@svxf?theme=moebooru)
+ -->
