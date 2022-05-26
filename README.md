@@ -2,6 +2,7 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=svxf&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,java,python,html,css,c,cpp,csharp,json,lua)](https://github.com/Jurredr/github-widgetbox)
 
+![Visited By](https://count.getloli.com/get/@svxf?theme=moebooru)
 <!-- 
 # Hey! Welcome to my `GitHub` 👋
 
