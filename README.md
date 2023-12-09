@@ -1,6 +1,6 @@
 
 <div align="center">
-  <a href="https://discord.com/users/336035290126876673" target"blank_"><img height="144px" src="resources/svxf.png"></a>
+  <a href="https://discord.com/users/336035290126876673" target"blank_"><img height="144px" src="https://cdn.discordapp.com/avatars/336035290126876673/29ee3e082452133aa093346bd00a055b.webp?size=1024&format=webp&width=0&height=256"></a>
 </div>
 
 
@@ -27,7 +27,7 @@
 
 <div align="center">
 <h3>Github Stats</h3>
-  <div><img src="https://count.getloli.com/get/@svxf"/></div>
+<!--   <div><img src="https://count.getloli.com/get/@svxf"/></div> -->
   <img src="https://github-readme-stats.vercel.app/api?username=svxf&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF" width="%100" height="150px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svxf&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=FFFFFF" width="%100" height="150px">
 </a>
