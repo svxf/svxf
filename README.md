@@ -33,13 +33,7 @@
 </a>
 
 <div align="center">
-  <div>
-  <h3>Coding Activity</h3>
-  <span>recently added wakatime extenstion to editors</span>
-  </div>
-  <br>
-  <a href="https://wakatime.com"><img height="500px" src="https://wakatime.com/share/@birb/9ba07ea8-2229-4c6a-b4ea-e3d108fd78d1.png" /></a>
-  <br>
+
   <div>
   <h3>Discord Activity</h3>
    <a href="https://discord.com/users/336035290126876673" target="_blank">
